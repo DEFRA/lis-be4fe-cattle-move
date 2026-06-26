@@ -1,4 +1,4 @@
-# CDP C# ASP.NET Backend Template
+# lis-be4fe-cattle-move
 
 Core delivery C# ASP.NET backend template.
 
@@ -77,7 +77,7 @@ dotnet test
 
 Run CDP-Deployments application:
 ```bash
-dotnet run --project Backend.Api --launch-profile Development
+dotnet run --project LisBe4feCattleMove --launch-profile Development
 ```
 
 ### SonarCloud
